@@ -15,7 +15,7 @@ Final Milestone Video {:target="_blank" rel="noopener"}
 # Second Milestone
 Second Milestone Description
 
-Second Milestone Video {:target="_blank" rel="noopener"}
+[![Milestone #2](https://res.cloudinary.com/marcomontalbano/image/upload/v1626966972/video_to_markdown/images/youtube--LFArD90AK3E-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=LFArD90AK3E "Milestone #2"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
