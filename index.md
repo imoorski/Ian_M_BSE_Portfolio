@@ -1,5 +1,5 @@
 ﻿# Midi Controller
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+For this project, I built an Arduino MIDI Controller. A MIDI controller is a tool that allows for the interactive creation of music. I chose to make this project because I really enjoy making music and I wanted to build something I could use in a meaningful way.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
