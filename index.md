@@ -3,7 +3,7 @@ For this project, I built an Arduino MIDI Controller. A MIDI controller is a too
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ian Moore | Los Gatos High School | Electrical Engineering | Incoming Senior
+| Ian Moore | Los Gatos High School | Electrical Engineering | Rising Senior
 
 Headstone Image
   
