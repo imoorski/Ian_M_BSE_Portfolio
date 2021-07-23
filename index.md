@@ -6,9 +6,13 @@ For this project, I built an Arduino MIDI Controller. A MIDI controller is a too
 | Ian Moore | Los Gatos High School | Electrical Engineering | Rising Senior
 
 Headstone Image
-  
+
+# Demo Night
+Reflection: Overall, I feel that I really got to experience the trial and error nature of engineering firsthand during this project. I ran into a lot of roadblocks along the way, so I had to spend a lot of time debugging and brainstorming other potential solutions. I think I've picked up valuable problem solving skills, as well as engineering specific skills like soldering.
+
+[![Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1627048560/video_to_markdown/images/youtube--etMTezY4xrc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=etMTezY4xrc&list=PLe-u_DjFx7eushLEouC1Aq0dlQR5Em00U&index=4 "Demo Night"){:target="_blank" rel="noopener"}
 # Final Milestone
-Final Milestone Description 
+For my final milestone, I finished the midi controller. I soldered a ground wire between the buttons and individual wires from each button to a pin on the Arduino. For the potentiometers, I soldering a ground wire, a power wire connected to the 5V Arduino pin, and individual wires connected to the analog Arduino pins.
 
 Final Milestone Video {:target="_blank" rel="noopener"}
 
