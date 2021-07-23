@@ -5,7 +5,7 @@ For this project, I built an Arduino MIDI Controller. A MIDI controller is a too
 |:--:|:--:|:--:|:--:|
 | Ian Moore | Los Gatos High School | Electrical Engineering | Rising Senior
 
-![Uploading IMG_5987.jpg…]()
+![IMG_5987](https://user-images.githubusercontent.com/86970592/126803887-d78d956e-3c88-4b66-94eb-772f20781c62.jpg)
 
 # Demo Night
 Reflection: Overall, I feel that I really got to experience the trial and error nature of engineering firsthand during this project. I ran into a lot of roadblocks along the way, so I had to spend a lot of time debugging and brainstorming other potential solutions. I think I've picked up valuable problem solving skills, as well as engineering specific skills like soldering.
