@@ -13,7 +13,9 @@ Final Milestone Description
 Final Milestone Video {:target="_blank" rel="noopener"}
 
 # Second Milestone
-Second Milestone Description
+
+
+My second milestone was getting a button and a potentiometer to work simultaneously in Ableton, as well as preparing to assemble the actual midi controller. In order to use the button and potentiometer together, I had to use some different code, as well as an application called hairless-midiserial to convert the signals from the Arduino into MIDI information that Ableton can read. For the casing of the controller, I am just using a plastic enclosure, and I had to drill out and sand all the holes for the buttons. I made sure the buttons fit and then I connected a ground wire between them in preparation for soldering and putting the midi controller together.
 
 [![Milestone #2](https://res.cloudinary.com/marcomontalbano/image/upload/v1626966972/video_to_markdown/images/youtube--LFArD90AK3E-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=LFArD90AK3E "Milestone #2"){:target="_blank" rel="noopener"}
 # First Milestone
